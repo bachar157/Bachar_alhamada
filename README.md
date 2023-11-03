@@ -53,6 +53,17 @@ So, let's connect, collaborate, and make the web a more exciting place together!
 
 
 ##  GitHub stats
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
 
 [![BAChar's GitHub stats](https://github-readme-stats.vercel.app/api?username=bachar-alhamada)](https://github.com/anuraghazra/github-readme-stats)
 
