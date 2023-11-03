@@ -29,6 +29,7 @@ So, let's connect, collaborate, and make the web a more exciting place together!
 
 ## example of my job 
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bachar-alhamada&theme=default)
 
 
 
