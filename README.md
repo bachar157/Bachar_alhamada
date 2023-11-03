@@ -1,17 +1,11 @@
 # Bachar_alhamada
 ### Hi there 👋, my name is Bachar 
 #### I am software developer
-![I am software developer](https://tse4.mm.bing.net/th?id=OIP.ihD0s9uGbIjLeI0uL0uuSAHaDm&pid=Api&P=0&h=220)
+![I am software developer](http://strathprints.strath.ac.uk/images/laptop-code-crop.jpg)
 
 I'm Bachar Alhanada, . I'm a passionate programmer with a strong background in C# and JavaScript, and I'm on a mission to create exceptional web experiences.
 
-Skills: / REACT / JS / HTML / CSS
-
-- 🔭 I’m currently working on this page. 
-
-
-
-
+Skills: / REACT / JS / HTML / CS
 
 
 In my journey, I've honed my programming skills and developed a keen eye for crafting user-friendly websites. With a deep commitment to both form and function, I thrive on the challenge of turning code into aesthetically pleasing and functional web applications. My goal is to not just meet but exceed user expectations, whether it's through intuitive UI design or efficient back-end systems. I'm constantly learning and evolving, and I'm eager to take on new projects that allow me to push the boundaries of what's possible in the digital realm.
