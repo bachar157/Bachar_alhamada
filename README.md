@@ -1,7 +1,7 @@
 # Bachar_alhamada
 ![I am software developer](http://strathprints.strath.ac.uk/images/laptop-code-crop.jpg)
 ### Who I am 
-#### I am r Bachar Alhamada
+#### I am  Bachar Alhamada
 
 Hello! I'm software develope and I'm currently pursuing my studies at MITT in Winnipeg, Canada. I'm a passionate programmer with a strong background in C# and JavaScript, and I'm on a mission to create exceptional web experiences.
 
