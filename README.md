@@ -6,8 +6,7 @@ In my journey, I've honed my programming skills and developed a keen eye for cra
 
 When I'm not coding, you can find me exploring the world of artificial intelligence and machine learning. I have a history of engaging with cutting-edge technologies and chatbots, which has given me unique insights into human-computer interactions. With every project I undertake, I'm driven by a desire to make a lasting impact and create software that makes people's lives better. So, let's connect, collaborate, and make the web a more exciting place together!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bachar_alhamada)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bachar.)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Skills
 
