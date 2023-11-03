@@ -1,8 +1,14 @@
 # Bachar_alhamada
 ![I am software developer](http://strathprints.strath.ac.uk/images/laptop-code-crop.jpg)
 ### Who I am 
-#### I am software developer
-I'm Bachar Alhanada, . I'm a passionate programmer with a strong background in C# and JavaScript, and I'm on a mission to create exceptional web experiences.
+#### I am r Bachar Alhamada
+
+Hello! I'm software develope and I'm currently pursuing my studies at MITT in Winnipeg, Canada. I'm a passionate programmer with a strong background in C# and JavaScript, and I'm on a mission to create exceptional web experiences.
+
+ I've honed my programming skills and developed a keen eye for crafting user-friendly websites. With a deep commitment to both form and function, I thrive on the challenge of turning code into aesthetically pleasing and functional web applications. My goal is to not just meet but exceed user expectations, whether it's through intuitive UI design or efficient back-end systems. I'm constantly learning and evolving, and I'm eager to take on new projects that allow me to push the boundaries of what's possible in the digital realm.
+
+When I'm not coding, you can find me exploring the world of artificial intelligence and machine learning. I have a history of engaging with cutting-edge technologies and chatbots, which has given me unique insights into human-computer interactions. With every project I undertake, I'm driven by a desire to make a lasting impact and create software that makes people's lives better. So, let's connect, collaborate, and make the web a more exciting place together!
+
 
 
 
