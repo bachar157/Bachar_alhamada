@@ -1,6 +1,6 @@
 # Bachar_alhamada
 ![I am software developer](http://strathprints.strath.ac.uk/images/laptop-code-crop.jpg)
-### Hi there 👋, my name is Bachar 
+### Who I am 
 #### I am software developer
 I'm Bachar Alhanada, . I'm a passionate programmer with a strong background in C# and JavaScript, and I'm on a mission to create exceptional web experiences.
 
