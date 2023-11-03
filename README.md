@@ -18,37 +18,49 @@ So, let's connect, collaborate, and make the web a more exciting place together!
 
 ## My Skills
 
-- ** 💻 Programming Languages:** C#, JavaScript
-- ** 🌐 Web Development:** HTML, CSS, JavaScript, React
-- ** 📦 Version Control/Git:** Git, GitHub
-- **  🔧 Tools and IDEs:** Visual Studio, Visual Studio Code, [Any other tools]
-- ** 🚀 Other Skills:** [List any additional skills or technologies you want to highlight]
+-  💻 Programming Languages:** C#, JavaScript
+-  🌐 Web Development:** HTML, CSS, JavaScript, React
+-  📦 Version Control/Git:** Git, GitHub
+-   🔧 Tools and IDEs:** Visual Studio, Visual Studio Code.
+-  🚀 Other Skills:** team work 
+
+
+## Top Technologies
+
+
+[![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](#)
+[![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#)
+[![C# Badge](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&labelColor=black&logo=c-sharp&logoColor=239120)](#)
+[![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E)](#)
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
 
 
 
 
-## example of my job 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bachar-alhamada&theme=default)
-
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bachar-alhamada)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/bachar-alhamada)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bachar-alhamada/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/bachar-alhamada)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/bachar-alhmada/)  
 
 
 
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bachar-alhamada)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+##  GitHub stats
+
+[![BAChar's GitHub stats](https://github-readme-stats.vercel.app/api?username=bachar-alhamada)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
 
 ## Contribution Graph
 
-[![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=your-username)](https://github.com/your-username)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bachar-alhamada&theme=default)
 
-The graph above represents my contributions on GitHub. It's a reflection of my dedication to open-source projects and coding.
 
-Feel free to connect with me and explore my projects. Let's learn, grow, and code together! 😄
+
+**Feel free to connect with me and explore my projects. Let's learn, grow, and code together! 😄
+
+## soical media 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bachar-alhamada)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/bachar-alhamada)
+  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bachar-alhamada/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/bachar-alhamada)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/bachar-alhmada/)  
