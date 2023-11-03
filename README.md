@@ -81,7 +81,7 @@ So, let's connect, collaborate, and make the web a more exciting place together!
 <hr/>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+my+soial+media!;I'm+always+ready+to+help+:)">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+my+social +media!;I'm+always+ready+to+help+:); Bachar">
 </h3>
 
 <br/>
