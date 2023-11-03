@@ -44,20 +44,9 @@ So, let's connect, collaborate, and make the web a more exciting place together!
 
 
 
-
-
-
-
-
-
-
-
 ##  GitHub stats
 
 [![BAChar's GitHub stats](https://github-readme-stats.vercel.app/api?username=bachar-alhamada)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 
 
 
@@ -66,7 +55,9 @@ So, let's connect, collaborate, and make the web a more exciting place together!
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bachar-alhamada&theme=default)
 
- ##🐍 My Contributions 🐍
+
+
+##🐍 My Contributions 🐍
 <div align="center">
  
   <br>
@@ -77,7 +68,7 @@ So, let's connect, collaborate, and make the web a more exciting place together!
 
 <hr/>
 
-
+##dfghdsfg
 <hr/>
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+my+social +media!;I'm+always+ready+to+help+:)!; Bachar:)">
