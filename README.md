@@ -30,6 +30,11 @@ So, let's connect, collaborate, and make the web a more exciting place together!
 -   🔧 Tools and IDEs:** Visual Studio, Visual Studio Code.
 -  🚀 Other Skills:** team work 
 
+## IDEs/Editors
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 
 ## Top Technologies
 
@@ -54,7 +59,15 @@ So, let's connect, collaborate, and make the web a more exciting place together!
 ## Contribution Graph
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bachar-alhamada&theme=default)
 
+<br>
 
+---
+
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=bachar157&theme=radical&hide_border=true" alt="GitHub Streak" /></a>
+</p>
+
+---
 
 
   <h3>🐍 My Contributions 🐍</h3>
@@ -73,7 +86,10 @@ So, let's connect, collaborate, and make the web a more exciting place together!
 </h3>
 
 <br/>
+## Let's Connect! 🌐
 
+- 📫 You can reach out to me at [bachar.alhamada34@gmail.com](mailto:bachar.alhamada34@gmail.com).
+- 📱 Connect with me on [LinkedIn]([https://www.linkedin.com/in/stefanoturcarelli](https://www.linkedin.com/in/bachar-alhamada-850782204/)).
 ## soical media 
 
 
